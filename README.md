@@ -1,2 +1,2 @@
-# webtoon_api_springboot
-웹툰 API
+# ggultoon_api_springboot
+꿀툰 API
