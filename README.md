@@ -1,13 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=30&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=60&lines=%F0%9F%8D%AF+%EC%9B%B9%ED%88%B0+%ED%94%8C%EB%9E%AB%ED%8F%BC+%7C+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%22%EA%BF%80%ED%88%B0%22)](https://git.io/typing-svg)
-<br/>
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=23&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=30&lines=%F0%9F%90%9D+%EB%8C%80%ED%91%9C+%EB%A1%9C%EA%B3%A0+%EC%9D%B4%EB%AF%B8%EC%A7%80)](https://git.io/typing-svg)
 ![photo_2024-06-29_20-08-38](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/5ab4bd5b-97e7-47b6-bda6-06d0dac16303)
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=23&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=30&lines=%F0%9F%90%9D+%EC%A3%BC%EC%9A%94+%EA%B8%B0%EB%8A%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%A3%BC%EC%9A%94+%EA%B8%B0%EB%8A%A5)](https://git.io/typing-svg)
 <p align="center">
   <div> 🎇 웹툰, 만화, 소설 작품 아카이브 </div>
   <ul> 
@@ -34,11 +30,11 @@
 </p>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=23&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=30&lines=%F0%9F%90%9D+ERD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+ERD)](https://git.io/typing-svg)
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=23&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=30&lines=%F0%9F%90%9D+%EC%82%AC%EC%9A%A9+%EA%B8%B0%EC%88%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%82%AC%EC%9A%A9+%EA%B8%B0%EC%88%A0)](https://git.io/typing-svg)
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=23&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=30&lines=%F0%9F%90%9D+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%84%B1%EB%8F%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%84%B1%EB%8F%84)](https://git.io/typing-svg)
 <br/>
