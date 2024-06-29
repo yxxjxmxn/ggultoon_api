@@ -37,7 +37,7 @@
 ![photo04](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/29a6cbe6-9da1-48fe-9a66-f8081d04741c)
 ![photo05](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/f860f851-8e3b-45b4-bfd7-3a25297f79ba)
 ![photo06](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/78e3298f-00ce-42ea-a6d1-f48941ff4f97)
-![photo07](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/fadca59c-a3c5-4202-932d-7c289caae738)
+![photo07](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/ca6153b3-b686-42d5-85db-58d5fd883368)
 <br/>
 <br/>
 
