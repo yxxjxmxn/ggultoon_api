@@ -30,6 +30,9 @@
 </p>
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%ED%94%84%EB%A6%AC%EB%B7%B0)](https://git.io/typing-svg)
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+ERD)](https://git.io/typing-svg)
 <br/>
 
