@@ -42,7 +42,7 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+ERD)](https://git.io/typing-svg)
-🎇 이미지 클릭 시 페이지로 이동합니다!
+🎇 이미지를 클릭해 SQL Query 확인
 [![ggultoon](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/80734dd6-f236-4539-b10d-05a6f9915a87)](https://dbdiagram.io/d/ggultoon-6680fb0c9939893daea056ed)
 <br/>
 <br/>
