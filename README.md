@@ -30,7 +30,7 @@
 </p>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%ED%94%84%EB%A6%AC%EB%B7%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%ED%94%84%EB%A6%AC%EB%B7%B0)](https://git.io/typing-svg)
 ![photo01](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/078eab3e-6b96-436d-86fe-380e72f865bc)
 ![photo02](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/5807bf82-3491-42d2-97df-6f42c3d8c687)
 ![photo03](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/2e89487a-b549-4c13-bdb3-5316726d8003)
