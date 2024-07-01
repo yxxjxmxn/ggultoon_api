@@ -48,9 +48,12 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%82%AC%EC%9A%A9+%EA%B8%B0%EC%88%A0)](https://git.io/typing-svg)
+![KakaoTalk_20240701_101618615_02](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/4dfc17aa-6713-4828-b9cd-bb3cc74050c6)
 <br/>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%84%B1%EB%8F%84)](https://git.io/typing-svg)
+![KakaoTalk_20240701_101618615_03](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/4320f2a5-fd44-4465-b5c1-8d4ca2f9000e)
+![KakaoTalk_20240701_101618615_01](https://github.com/yxxjxmxn/ggultoon_api/assets/121789257/631faa44-d0cf-4325-94e8-11f3bea30d81)
 <br/>
 <br/>
