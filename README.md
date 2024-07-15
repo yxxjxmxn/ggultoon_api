@@ -3,6 +3,16 @@
 <br/>
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%9E%91%EC%97%85+%EA%B8%B0%EA%B0%84)](https://git.io/typing-svg)
+🎇 2023.03 ~ 2024.02 (약 1년)
+<br/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EA%B0%9C%EB%B0%9C+%EC%9D%B8%EC%9B%90)](https://git.io/typing-svg)
+🎇 총 8명 (백엔드 4명 • 프론트엔드 2명 • 시스템 2명)
+<br/>
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%A3%BC%EC%9A%94+%EA%B8%B0%EB%8A%A5)](https://git.io/typing-svg)
 <p align="center">
   <div> 🎇 웹툰, 만화, 소설 작품 아카이브 </div>
