@@ -13,34 +13,31 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%A3%BC%EC%9A%94+%EA%B8%B0%EB%8A%A5)](https://git.io/typing-svg)
-<p align="center">
-  <div> 🎇 웹툰, 만화, 소설 작품 아카이브 </div>
-  <ul> 
-    <li> 작품 큐레이션 | 관리자에서 선정한 추천 작품들을 예약 시간에 따라 특정 영역에 노출 </li>
-    <li> 작품 검색 | 카테고리별 • 장르별 • 작가별 • 태그별 작품 리스트 조회 및 검색 </li>
-    <li> 작품 정보 | 선택한 작품에 대한 작품 상세 정보 및 등록된 회차 리스트 조회 </li>
-  </ul>
-</p>
-<p align="center">
-  <div> 🎇 회원 정보 및 활동 관리 </div>
-  <ul> 
-    <li> 내 정보 | 잔여 코인 및 마일리지 조회, 닉네임 등록 및 수정, 본인인증 및 비밀번호 재설정 </li>
-    <li> 커뮤니티 | 작품 및 회차별 댓글 등록 • 조회 • 수정 • 삭제 • 신고 </li>
-    <li> 내가 보던 꿀작 | 회원이 최근 본 • 대여한 • 소장한 • 찜한 작품 내용 조회 및 편집 </li>
-    <li> 이용 내역 | 회원의 코인 및 마일리지 충전 • 사용 • 소멸 내용 조회 및 편집 </li>
-    <li> 작품 구매 | 대여 • 소장 • 전체 대여 • 전체 소장 시 구매 가능 여부 체크 및 코인 및 마일리지 차감 </li>
-    <li> 충전소 | 코인 및 마일리지 결제 </li>
-  </ul>
-</p>
-<p align="center">
-  <div> 🎇 회원 DT(체류 시간) 및 매출 증가 목표 이벤트 </div>
-  <ul> 
-    <li> 회원 유입 혜택 | 회원가입 및 로그인 시 마일리지 지급 </li>
-    <li> 페이백 마일리지 | 회원 등급에 따라 작품 감상 시 사용한 마일리지 일부 환급 </li>
-    <li> 선물함 | 1일 1회 운영자 추천작으로 선정된 작품 무료 이용권 지급 </li>
-  </ul>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%EC%A3%BC%EC%9A%94+%EA%B8%B0%EB%8A%A5+%EB%B0%8F+%EC%9E%91%EC%97%85+%EB%82%B4%EC%9A%A9)](https://git.io/typing-svg)
+🎇 웹툰, 만화, 소설 작품 아카이브
+<ul> 
+  <li> 작품 큐레이션 | 관리자에서 선정한 추천 작품들을 예약 시간에 따라 특정 영역에 노출 </li>
+  <li> 작품 검색 | 카테고리별 • 장르별 • 작가별 • 태그별 작품 리스트 조회 및 검색 </li>
+  <li> 작품 정보 | 선택한 작품에 대한 작품 상세 정보 및 등록된 회차 리스트 조회 </li>
+</ul>
+
+🎇 회원 정보 및 활동 관리
+<ul> 
+  <li> 내 정보 | 잔여 코인 및 마일리지 조회, 닉네임 등록 및 수정, 본인인증 및 비밀번호 재설정 </li>
+  <li> 커뮤니티 | 작품 및 회차별 댓글 등록 • 조회 • 수정 • 삭제 • 신고 </li>
+  <li> 내가 보던 꿀작 | 회원이 최근 본 • 대여한 • 소장한 • 찜한 작품 내용 조회 및 편집 </li>
+  <li> 이용 내역 | 회원의 코인 및 마일리지 충전 • 사용 • 소멸 내용 조회 및 편집 </li>
+  <li> 작품 구매 | 대여 • 소장 • 전체 대여 • 전체 소장 시 구매 가능 여부 체크 및 코인 및 마일리지 차감 </li>
+  <li> 충전소 | 코인 및 마일리지 결제 </li>
+</ul>
+
+🎇 회원 DT(체류 시간) 및 매출 증가 목표 이벤트
+<ul> 
+  <li> 회원 유입 혜택 | 회원가입 및 로그인 시 마일리지 지급 </li>
+  <li> 페이백 마일리지 | 회원 등급에 따라 작품 감상 시 사용한 마일리지 일부 환급 </li>
+  <li> 선물함 | 1일 1회 운영자 추천작으로 선정된 작품 무료 이용권 지급 </li>
+</ul>
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&pause=1000&color=FFBF00&vCenter=true&repeat=false&random=false&width=1000&height=25&lines=%F0%9F%90%9D+%ED%94%84%EB%A6%AC%EB%B7%B0)](https://git.io/typing-svg)
